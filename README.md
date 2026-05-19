@@ -39,7 +39,7 @@
 Open `index.html` in any modern browser to see the firmware UI demo.
 
 ### Live Demo
-> 🌐 [hacknlearnindia.github.io/flipper-firmware](https://hacknlearnindia.github.io/flipper-firmware)
+> 🌐 [hacknlearnindia.github.io/flipper-firmware](https://hacknlearnindia1.github.io/HackNlearn-Flipper/)
 
 ---
 
